@@ -1,1 +1,1 @@
-Look into this readmer with much focus as there are many info to gathwr from it
+here we are writing some comd theie functions 1 cd~ for changing the working directory, 2 pwd for vieew the dir. we are working on, 3 ls for listing contents of a dir., 4 touch for creating a file, 5 cat for viewing the contents of a file, 6 echo for adding a text in a file. thanks for reading
